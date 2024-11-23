@@ -16,7 +16,8 @@
 - **NumPy** (for numerical operations)  
 - **Matplotlib** (for data visualization)  
 - **Scikit-learn** (for machine learning models and evaluation)  
-- **XGBoost** (for advanced boosting model)  
+- **XGBoost** (for advanced boosting model)
+- **Optuna** (for model training)
 
 ## **Overview**  
 In the rapidly growing e-commerce industry, fraudulent transactions are a major concern for businesses. These transactions not only lead to direct financial losses but can also harm a company's reputation and erode customer trust. As a data scientist, I was assigned the task of developing a machine learning-based solution to detect fraudulent transactions, helping the business mitigate these risks. The goal is to build a model capable of automatically identifying fraudulent behavior with a high degree of accuracy while minimizing false positives, which can lead to unnecessary customer friction and increased operational costs.
